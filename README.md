@@ -20,7 +20,7 @@ I enjoy working across the stack, from creating user interfaces to developing ba
 `C` `C++` `python` `JavaScript` `java`
 
 **Web Development:**
-`HTML` `CSS` `React` `Node.js` `Express.js` `MongoDB`
+`HTML` `CSS` `tailwindCSS` `React` `Node.js` `Express.js` `MongoDB`
 
 **Tools:**
 `Git` `GitHub` `VS Code`
