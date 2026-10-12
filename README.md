@@ -1,15 +1,19 @@
 # Hey, I'm Nitish Yadav 
 
-**Computer Science Engineering Student | Full-Stack Developer**
+**Computer Science Engineering Student | Full-Stack Developer | Generative AI Enthusiast**
 
-I'm a Computer Science Engineering student passionate about **software development, problem solving, and building things with code**.
+I'm a Computer Science Engineering student passionate about software development, problem-solving, and Generative AI.
 
-I enjoy working across the stack, from creating user interfaces to developing backend systems, while strengthening my programming fundamentals through **Data Structures & Algorithms**.
+I enjoy building full-stack web applications, developing backend systems, and exploring how Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), vector databases, and vector embeddings power modern AI applications.
+
+I'm continuously strengthening my programming fundamentals through Data Structures & Algorithms while expanding my knowledge of web development and AI technologies.
 
 ### About Me
 
 *  Interested in **Full-Stack Web Development**
 *  Enjoy building **web applications and backend systems**
+*  Familiar with **Generative AI concepts and LLMs**
+*  Learning about **RAG, vector databases, and vector embeddings**
 *  Passionate about **Data Structures & Algorithms & problem solving**
 *  Love turning ideas into real-world projects
 *  Believe in learning through **building, solving, and experimenting**
@@ -21,6 +25,9 @@ I enjoy working across the stack, from creating user interfaces to developing ba
 
 **Web Development:**
 `HTML` `CSS` `tailwindCSS` `React` `Node.js` `Express.js` `MongoDB`
+
+**Generative AI Concepts:**
+`LLMs` `RAG` `Vector Embeddings` `Vector Databases`
 
 **Tools:**
 `Git` `GitHub` `VS Code`
