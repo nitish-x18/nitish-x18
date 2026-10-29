@@ -1,4 +1,4 @@
-# Hey, I'm Nitish Yadav(Munna Kumar) 
+# Hey, I'm Nitish Yadav 
 
 **Computer Science Engineering Student | Full-Stack Developer | Generative AI Enthusiast**
 
